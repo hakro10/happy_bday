@@ -1,0 +1,25 @@
+
+body {
+    background-image: url("./media/Green_Floral_Background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 0 auto;
+}
+
+main {
+    /* max-width: 90%; */
+    margin: 50px auto;
+}
+
+div {
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p {
+    max-width: 300px;
+    padding: 10px;
+    margin: 10px auto;
+}

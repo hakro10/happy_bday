@@ -1,0 +1,28 @@
+
+body {
+    text-align: center;
+}
+
+header {
+    padding: 30px;
+}
+
+#cover {
+    max-width: 350px;
+    min-width: 100px;
+    border-radius: 15px;
+}
+
+.box {
+    border: 1px solid red;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+button {
+    background-color: orange;
+}
