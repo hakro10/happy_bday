@@ -2,7 +2,7 @@
 body {
     background-image: url("./media/Green_Floral_Background.png");
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: space;
     text-align: center;
     padding: 0 auto;
 }
