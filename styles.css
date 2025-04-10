@@ -5,6 +5,9 @@ body {
 
 header {
     padding: 30px;
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 #cover {
@@ -25,4 +28,12 @@ footer{
 
 button {
     background-color: orange;
+}
+
+.card {
+    max-width: 400px;
+    height: 400px;
+    max-height: 500px;
+    background-color: grey;
+    padding-top: 50px;
 }
