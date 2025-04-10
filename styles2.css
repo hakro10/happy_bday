@@ -2,14 +2,18 @@
 body {
     width: 100%;
     height: 100%;
+    margin: 0;
     background-image: url("./media/Green_Floral_Background.png");
-    background-size: cover;
+    background-size: 100% 200%;
     background-repeat: no-repeat;
-    text-align: center;
-    padding: 0 auto;
+
 }
 
 main {
+
+
+    text-align: center;
+    padding: 0 auto;
     /* max-width: 90%; */
     margin: 50px auto;
     height: 100%;
