@@ -24,6 +24,15 @@ footer{
     /* margin-top: 50px; */
     text-align: center;
     padding-top: 50px;
+
+    /* position:fixed;bottom:0;left:0;right:0;height:30px; */
+
+    position: relative;
+    /* margin-bottom: -180px; */
+    /* negative value of footer height */
+    height: 50px;
+    clear: both;
+    /* background-color: red; */
 }
 
 button {
