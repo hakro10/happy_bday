@@ -1,5 +1,6 @@
 
 body {
+    height: 100%;
     background-image: url("./media/Green_Floral_Background.png");
     background-size: cover;
     background-repeat: space;
